@@ -1,0 +1,15 @@
+dataSource:"db:/ma_richieste/tab_richiestedettaglio",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"416F5D90-2446-4EC7-ABA4-E08216C94362"
+}
+],
+name:"pva_richieste",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"530E409A-015B-4678-BE55-97679170C17A"

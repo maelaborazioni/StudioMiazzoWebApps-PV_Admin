@@ -1,0 +1,12 @@
+addEmptyValue:1,
+customValues:null,
+dataProviderID1:"descrizione",
+dataProviderID2:"idtabtipovisualizzazione",
+dataSource:"db:/ma_richieste/tab_tipivisualizzazione",
+name:"vls_tipovisualizzazione",
+relationName:null,
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"252F0FBE-A25E-4543-A9D8-3E5F62D1B0E6",
+valueListType:1

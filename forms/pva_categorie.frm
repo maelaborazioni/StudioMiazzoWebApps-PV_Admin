@@ -1,0 +1,15 @@
+dataSource:"db:/ma_richieste/tab_richieste",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"AADF4266-5A8A-4465-BF73-69C6D22875A8"
+}
+],
+name:"pva_categorie",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"CA92E943-6A14-4350-BD7E-4C9399A68EC5"

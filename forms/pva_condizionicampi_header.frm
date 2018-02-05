@@ -1,0 +1,14 @@
+extendsID:"CA92E943-6A14-4350-BD7E-4C9399A68EC5",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"42275948-002E-4EA1-A1EA-90E0C83E80D6"
+}
+],
+name:"pva_condizionicampi_header",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"2CFDC390-B8CB-43D0-B7F6-3ABC8E3B2F1F"

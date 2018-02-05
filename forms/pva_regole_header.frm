@@ -1,0 +1,14 @@
+extendsID:"CA92E943-6A14-4350-BD7E-4C9399A68EC5",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A2FAE444-6AE4-41D9-8844-6DB257CBB885"
+}
+],
+name:"pva_regole_header",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"9A3614ED-03A7-48FB-84CF-845AF8AA12E7"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_richieste/tab_richiestedettagliocondizioni",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"E2A21195-41D8-4FED-87E2-4762A964A3C0"
+}
+],
+name:"pva_regole",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"BBBDD3C9-A936-4A18-A357-0BA020B3ACE0"

@@ -1,0 +1,12 @@
+addEmptyValue:1,
+customValues:null,
+dataProviderID1:"descrizione",
+dataProviderID2:"idtabrichiestadettagliocampo",
+dataSource:null,
+name:"vls_campirichiesta",
+relationName:"tab_richiestedettagliocondizionicampi_to_tab_richiestedettagliocondizioni.tab_richiestedettagliocondizioni_to_tab_richiestedettagliocampi",
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"84BA6C62-E181-46BD-8520-CE5ABC98A56B",
+valueListType:1
