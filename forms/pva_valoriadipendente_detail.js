@@ -34,7 +34,7 @@ function onRecordSelection(event, form)
  */
 function refreshTree(company_ID)
 {	
-	/** @type {JSFoundset<db:/ma_richieste/tab_richieste>} */
+	/** @type {JSFoundSet<db:/ma_richieste/tab_richieste>} */
 	var categorieFs = databaseManager.getFoundSet(globals.Server.MA_RICHIESTE, globals.Table.CATEGORIE_RICHIESTE);
 	if (categorieFs && categorieFs.find())
 	{
@@ -44,7 +44,7 @@ function refreshTree(company_ID)
 	else
 		throw new Error(i18n.getI18NMessage('ma.err.findmode'));
 	
-	/** @type {JSFoundset<db:/ma_richieste/tab_richiestedettaglio>} */
+	/** @type {JSFoundSet<db:/ma_richieste/tab_richiestedettaglio>} */
 	var richiesteFs = databaseManager.getFoundSet(globals.Server.MA_RICHIESTE, globals.Table.DETTAGLIO_RICHIESTE);
 	if (richiesteFs && richiesteFs.find())
 	{
@@ -118,7 +118,7 @@ function updateValue(idcampo)
  */
 function deleteValue()
 {
-	/** @type {JSFoundset<db:/ma_richieste/tab_richiestedettagliocampi_valoriadipendente>} */
+	/** @type {JSFoundSet<db:/ma_richieste/tab_richiestedettagliocampi_valoriadipendente>} */
 	var fs = lavoratori_to_tab_richiestedettagliocampi_valoriadipendente$idcampo;
 	globals.deleteRecord(fs);
 }

@@ -24,7 +24,7 @@ function addRule()
 }
 
 /**
- * @param {JSFoundset<db:/ma_richieste/tab_richiestedettaglio>} fs
+ * @param {JSFoundSet<db:/ma_richieste/tab_richiestedettaglio>} fs
  * 
  * @properties={typeid:24,uuid:"BACD540A-D7D3-4A47-B99F-DF778EBD5709"}
  */

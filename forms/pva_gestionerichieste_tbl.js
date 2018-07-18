@@ -16,7 +16,7 @@ function gotoBrowse()
  */
 function filterData()
 {
-	/** @type {JSFoundset<db:/ma_richieste/tab_richieste>} */
+	/** @type {JSFoundSet<db:/ma_richieste/tab_richieste>} */
 	var fs = databaseManager.getFoundSet(globals.Server.MA_RICHIESTE, globals.Table.CATEGORIE_RICHIESTE);
 	if (fs && fs.find())
 	{
